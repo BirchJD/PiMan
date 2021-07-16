@@ -23,16 +23,16 @@ micro computer. Most distributions of Linux already have Python installed
 as an example on the Arch Linux distribution install PyGame with the
 following command:
 
-pacman -S pygame
+`pacman -S pygame`
 
 Run the game by typing the following:
-./PiMan.py
+`./PiMan.py`
 
 Or:
-python2 PiMan.py
+`python2 PiMan.py`
 
 Or:
-python PiMan.py
+`python PiMan.py`
 
 The purpose of this project, is a first application I have written in 
 Python. To become acquainted with Python for a new job which may require
