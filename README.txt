@@ -26,13 +26,13 @@ following command:
 pacman -S pygame
 
 Run the game by typing the following:
-./PyMan.py
+./PiMan.py
 
 Or:
-python2 PyMan.py
+python2 PiMan.py
 
 Or:
-python PyMan.py
+python PiMan.py
 
 The purpose of this project, is a first application I have written in 
 Python. To become acquainted with Python for a new job which may require
